@@ -13,8 +13,8 @@ The project demonstrates the complete machine learning workflow, including synth
 * Detects whether a Python code snippet contains a bug.
 * Implements two deep learning approaches:
 
-  * Bidirectional LSTM (BiLSTM)
-  * CodeBERT Transformer
+  * 1. Bidirectional LSTM (BiLSTM)
+  * 2. CodeBERT Transformer
 * Generates a synthetic dataset by introducing realistic bugs into clean Python programs.
 * Evaluates models using:
 
